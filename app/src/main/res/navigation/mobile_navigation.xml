@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/nav_order_hist">
+
+    <fragment
+        android:id="@+id/nav_profile_overview"
+        android:name="com.uan.mydatingapp.ui.ProfileOverviewFragment"
+        android:label="@string/menu_profover"
+        tools:layout="@layout/activity_profiles_overview" />
+
+    <fragment
+        android:id="@+id/nav_profile_full"
+        android:name="com.uan.mydatingapp.ui.ProfileFullViewFragment"
+        android:label="@string/menu_proffull"
+        tools:layout="@layout/activity_profile_rating" />
+</navigation>

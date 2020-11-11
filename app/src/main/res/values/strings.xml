@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyDatingApp</string>
+
+    <!-- -->
+    <string name="app_logo_description">App Logo</string>
+
+    <!-- -->
+    <string name="app_profile_overview_title">Friendsr</string>
+    <string name="app_profile_overview_desc">Click on a eligible single user to learn more and see if you are compatible for a date!</string>
+
+    <!-- -->
+    <string name="app_profile_full_desc">Andrea Wolfram was born on April, 1990 ...</string>
+    <string name="app_profile_full_photo_desc">User profile full size photo</string>
+
+    <!-- -->
+    <string name="app_profile_resume_name">User full name</string>
+    <string name="app_profile_resume_photo_desc">User profile photo</string>
+
+    <!-- -->
+    <string name="menu_profover">Profile Overview</string>
+    <string name="menu_proffull">Profile Full View</string>
+</resources>
