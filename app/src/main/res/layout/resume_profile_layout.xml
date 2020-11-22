@@ -17,10 +17,10 @@
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/pl_imagebtn1" />
+        app:layout_constraintTop_toBottomOf="@+id/pl_imagebtn" />
 
     <ImageButton
-        android:id="@+id/pl_imagebtn1"
+        android:id="@+id/pl_imagebtn"
         android:layout_width="217dp"
         android:layout_height="164dp"
         android:layout_marginStart="15dp"

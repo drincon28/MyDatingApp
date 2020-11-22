@@ -15,4 +15,9 @@
         android:name="com.uan.mydatingapp.ui.ProfileFullViewFragment"
         android:label="@string/menu_proffull"
         tools:layout="@layout/activity_profile_rating" />
+    <activity
+        android:id="@+id/activitySplashScreen"
+        android:name="com.uan.mydatingapp.ui.ActivitySplashScreen"
+        android:label="activity_splash_screen"
+        tools:layout="@layout/activity_splash_screen" />
 </navigation>

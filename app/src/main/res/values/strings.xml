@@ -11,6 +11,7 @@
     <!-- -->
     <string name="app_profile_full_desc">Andrea Wolfram was born on April, 1990 ...</string>
     <string name="app_profile_full_photo_desc">User profile full size photo</string>
+    <string name="app_profile_back_button">Go to overview</string>
 
     <!-- -->
     <string name="app_profile_resume_name">User full name</string>

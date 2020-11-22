@@ -34,7 +34,7 @@
         app:layout_constraintTop_toBottomOf="@+id/po_textView1" />
 
     <include
-        android:id="@+id/include_1"
+        android:id="@+id/rplay_1"
         layout="@layout/resume_profile_layout"
         android:layout_width="181dp"
         android:layout_height="215dp"
@@ -44,7 +44,7 @@
         app:layout_constraintTop_toBottomOf="@+id/po_textView2" />
 
     <include
-        android:id="@+id/include_2"
+        android:id="@+id/rplay_2"
         layout="@layout/resume_profile_layout"
         android:layout_width="193dp"
         android:layout_height="215dp"
@@ -54,42 +54,42 @@
         app:layout_constraintTop_toBottomOf="@+id/po_textView2" />
 
     <include
-        android:id="@+id/include_3"
+        android:id="@+id/rplay_3"
         layout="@layout/resume_profile_layout"
         android:layout_width="181dp"
         android:layout_height="215dp"
         android:layout_marginStart="15dp"
         android:layout_marginTop="10dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/include_1" />
+        app:layout_constraintTop_toBottomOf="@+id/rplay_1" />
 
     <include
-        android:id="@+id/include_4"
+        android:id="@+id/rplay_4"
         layout="@layout/resume_profile_layout"
         android:layout_width="193dp"
         android:layout_height="215dp"
         android:layout_marginTop="10dp"
         android:layout_marginEnd="15dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/include_1" />
+        app:layout_constraintTop_toBottomOf="@+id/rplay_1" />
 
     <include
-        android:id="@+id/include_5"
+        android:id="@+id/rplay_5"
         layout="@layout/resume_profile_layout"
         android:layout_width="181dp"
         android:layout_height="215dp"
         android:layout_marginStart="15dp"
         android:layout_marginTop="10dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/include_3" />
+        app:layout_constraintTop_toBottomOf="@+id/rplay_3" />
 
     <include
-        android:id="@+id/include_6"
+        android:id="@+id/rplay_6"
         layout="@layout/resume_profile_layout"
         android:layout_width="193dp"
         android:layout_height="215dp"
         android:layout_marginTop="10dp"
         android:layout_marginEnd="15dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/include_3" />
+        app:layout_constraintTop_toBottomOf="@+id/rplay_3" />
 </androidx.constraintlayout.widget.ConstraintLayout>
